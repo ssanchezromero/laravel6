@@ -1,2 +1,2 @@
-# laravel6
-Laravel 6 installation with auth
+# bestia
+Bestia 1.0 installation with auth
